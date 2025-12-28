@@ -1,0 +1,8 @@
+cohere
+pyttsx3
+SpeechRecognition
+wikipedia-api
+opencv-python
+requests
+numpy
+ultralytics
